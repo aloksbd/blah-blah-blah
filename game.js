@@ -35,7 +35,7 @@ function showGameOver() {
         msg = "What a good afternoon"
     } else if (points < 12){
         msg = "Cant I ever have a peace"
-    } else if (points < 8){
+    } else if (points < 16){
         msg = "Leave Me Alone!"
     } else {
         msg = "I WANT DIVORCE WOMAN!!!"
